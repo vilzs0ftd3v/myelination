@@ -1,3 +1,3 @@
 <?php
 
-define('URL', "http://localhost/project/myelination/");
+define('URL', "https://myelinations.herokuapp.com");
