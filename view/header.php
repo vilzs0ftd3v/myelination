@@ -3,9 +3,9 @@
 <meta charset="utf-8">
 <meta name = "viewport" content="width=device-width, initial-scale = 1.0">
 <head>
-	<link rel="stylesheet" type="text/css" href="<?php echo URL;?>public/css/bootstrap.min.css">
-	<script type="text/javascript" src = "<?php echo URL;?>public/js/jquery.min.js"></script>
-	<script type="text/javascript" src = "<?php echo URL;?>public/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css">
+	<script type="text/javascript" src = "public/js/jquery.min.js"></script>
+	<script type="text/javascript" src = "public/js/bootstrap.min.js"></script>
 
 	<style>
 	html, body {
